@@ -20,7 +20,7 @@ void showSystemHistory(vector<Action>& history);
 string enterProfile(string username, vector<Action>& history);
 void displayName(string username);
 
-int main() {
+int main1() {
     string username;
     bool hasUsername = false;
     int mainChoice;
