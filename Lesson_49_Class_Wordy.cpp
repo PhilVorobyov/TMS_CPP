@@ -96,7 +96,7 @@ public:
     }
 };
 
-int main() {
+int main49() {
     WordGuessGame game;
     game.Play();
 
