@@ -150,6 +150,6 @@ int main() {
     WordGuessGame* game = new WordGuessGame(words, numWords);
     game->Play();
 
-    delete game;
     return 0;
 }
+ 
